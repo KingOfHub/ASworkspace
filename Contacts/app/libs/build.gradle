@@ -1,0 +1,4 @@
+dependencies {
+    compile files('libs/classesXXX.jar')
+}
+

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/urovo-dotorom/AndroidStudioProjects/Dialer/app/src/main/assets"><file name="contacts_extensions.properties" path="/home/urovo-dotorom/AndroidStudioProjects/Dialer/app/src/main/assets/contacts_extensions.properties"/></source><source path="/home/urovo-dotorom/AndroidStudioProjects/Dialer/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/urovo-dotorom/AndroidStudioProjects/Dialer/app/src/debug/assets"/></dataSet></merger>
